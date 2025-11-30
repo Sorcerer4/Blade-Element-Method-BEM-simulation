@@ -1,0 +1,30 @@
+# MATLAB Live Scripts, MAT-files, figures, apps
+*.mlx     binary
+*.mat     binary
+*.fig     binary
+*.mlapp   binary
+
+# Simulink models and related files
+*.slx     binary
+*.mdl     binary
+*.slxp    binary
+*.mdlp    binary
+*.sldd    binary
+
+# MEX binaries
+*.mexa64    binary
+*.mexmaci64 binary
+*.mexmaca64 binary
+*.mexw64    binary
+
+# Other common binary formats
+*.pdf     binary
+*.jpg     binary
+*.jpeg    binary
+*.png     binary
+*.xlsx    binary
+*.docx    binary
+*.pptx    binary
+
+# (Optional) Treat everything not explicitly text as binary
+#*.*      binary
